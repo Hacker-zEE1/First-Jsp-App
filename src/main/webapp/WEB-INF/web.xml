@@ -1,0 +1,15 @@
+<web-app>
+	<servlet>
+		<servlet-name>fj</servlet-name>
+		<jsp-file>/WEB-INF/classes/First.jsp</jsp-file>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>fj</servlet-name>
+		<url-pattern>/jsp</url-pattern>
+	</servlet-mapping>
+	
+
+
+
+</web-app>
